@@ -1,0 +1,13 @@
+frmMain = 197, 103, 1358, 776, , 0, 0, 0, 0, C
+cRegistry = 0, 0, 0, 0, C
+mMain = 364, 215, 946, 623, CZ
+frmReporte = 197, 103, 685, 511, C, 0, 0, 0, 0, C
+frmImprimir = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+GCommonDialog = 0, 0, 0, 0, C
+CIni = 0, 0, 0, 0, C
+clsGradient = 0, 0, 0, 0, C
+frmAcerca = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+mShell = 0, 0, 0, 0, C
+frmAccion = 197, 103, 685, 511, C, 0, 0, 0, 0, C
+mGeneral = 197, 103, 685, 511, C
+frmPath = 0, 0, 0, 0, C, 0, 0, 0, 0, C
