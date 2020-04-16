@@ -9,7 +9,7 @@ Chileno, casado , tengo 2 hijos. Aficionado a los videojuegos y el tenis de mesa
 En la actualidad mi area de conocimiento esta referida a las tecnologias .NET con mas de 15 años de experiencia desarrollando varias paginas web usando asp.net con bases de datos sql server y Oracle. Integrador de tecnologias, desarrollo de servicios, aplicaciones de escritorio.
 
 # Tipo de Proyecto
-Component Checker es una aplicación que se encarga de respaldar todos los archivos que ocupa el proyecto visual basic. La aplicacion hace uso de la componente vbzip10.dll la cual es una api desarrollada por el grupo Info-ZIP. El código y las rutinas de compresión se tomaron del ejemplo de http://www.vbaccelerator.com/codelib/zip/zip.htm.
+Component Checker es una aplicación que se encarga de verificar cuales controles y librerias activex estan correctamente instalados. Para esto se ocupa la libreria TLBINF32.DLL la cual ayuda a obtener la informacion de las librerias desde el registro de windows.
 
 # Prologo
 Regala un pescado a un hombre y le darás alimento para un día, enseñale a pescar y lo alimentarás para el resto de su vida (Proverbio Chino)
